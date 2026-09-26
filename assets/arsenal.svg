@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 210" width="880" role="img" aria-label="攻 防 研 造">
+  <defs>
+    <filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <g font-family="PingFang SC,Microsoft YaHei,sans-serif">
+    <rect x="20" y="20" width="198" height="170" rx="14" fill="#ffffff" stroke="#e5484d" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="119" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#e5484d" filter="url(#g)" opacity="0.25">攻</text>
+    <text x="119" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#e5484d">攻</text>
+    <line x1="75" y1="104" x2="163" y2="104" stroke="#e5484d" stroke-opacity="0.25"/>
+    <text x="119" y="132" text-anchor="middle" font-size="13.5" fill="#57606a">渗透测试 · 红队工具链</text>
+    <text x="119" y="154" text-anchor="middle" font-size="13.5" fill="#57606a">内网拓展 · C2 通信</text>
+
+    <rect x="234" y="20" width="198" height="170" rx="14" fill="#ffffff" stroke="#0b72d5" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="333" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#0b72d5" filter="url(#g)" opacity="0.25">防</text>
+    <text x="333" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#0b72d5">防</text>
+    <line x1="289" y1="104" x2="377" y2="104" stroke="#0b72d5" stroke-opacity="0.25"/>
+    <text x="333" y="132" text-anchor="middle" font-size="13.5" fill="#57606a">应急响应 · 内存取证</text>
+    <text x="333" y="154" text-anchor="middle" font-size="13.5" fill="#57606a">溯源反制 · 蜜罐识别</text>
+
+    <rect x="448" y="20" width="198" height="170" rx="14" fill="#ffffff" stroke="#8250df" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="547" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#8250df" filter="url(#g)" opacity="0.25">研</text>
+    <text x="547" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#8250df">研</text>
+    <line x1="503" y1="104" x2="591" y2="104" stroke="#8250df" stroke-opacity="0.25"/>
+    <text x="547" y="132" text-anchor="middle" font-size="13.5" fill="#57606a">漏洞分析 · 反序列化</text>
+    <text x="547" y="154" text-anchor="middle" font-size="13.5" fill="#57606a">内存马 · CVE 追踪</text>
+
+    <rect x="662" y="20" width="198" height="170" rx="14" fill="#ffffff" stroke="#0e9f6e" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="761" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#0e9f6e" filter="url(#g)" opacity="0.25">造</text>
+    <text x="761" y="86" text-anchor="middle" font-size="46" font-weight="700" fill="#0e9f6e">造</text>
+    <line x1="717" y1="104" x2="805" y2="104" stroke="#0e9f6e" stroke-opacity="0.25"/>
+    <text x="761" y="132" text-anchor="middle" font-size="13.5" fill="#57606a">AI × 安全 · 开源工具</text>
+    <text x="761" y="154" text-anchor="middle" font-size="13.5" fill="#57606a">小程序逆向 · 技术写作</text>
+  </g>
+</svg>
